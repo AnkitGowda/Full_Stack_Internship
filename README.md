@@ -137,8 +137,8 @@ POST /api/auth/login
 Content-Type: application/json
 
 {
-  "email": "user@example.com",
-  "password": "password123"
+  "email": "ankith@gmail.com",
+  "password": "Ankith@2004"
 }
 ```
 
@@ -347,5 +347,6 @@ NODE_ENV=development
 
 ## 📝 License
 
-This project is licensed under the MIT License.#   F u l l _ S t a c k _ I n t e r n s h i p  
+This project is licensed under the MIT License.#   F u l l _ S t a c k _ I n t e r n s h i p 
+ 
  
