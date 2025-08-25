@@ -17,14 +17,14 @@ const Login: React.FC = () => {
     setError("");
 
     // ✅ Hardcoded login check
-    if (email === "patgarlohit818@gmail.com" && password === "Lohit@2004") {
+    if (email === "ankith@gmail.com" && password === "Ankith@2004") {
       // Store dummy session (optional)
       localStorage.setItem(
         "user",
         JSON.stringify({
           id: "1",
           email,
-          name: "Lohit Mahadev Patgar",
+          name: "Ankith Gouda",
           role: "admin",
         })
       );
